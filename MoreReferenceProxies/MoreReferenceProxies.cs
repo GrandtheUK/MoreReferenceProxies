@@ -6,7 +6,7 @@ using ResoniteModLoader;
 namespace ExampleMod;
 
 public class MoreReferenceProxies : ResoniteMod {
-	internal const string VERSION_CONSTANT = "1.0.0"; 
+	internal const string VERSION_CONSTANT = "1.0.1"; 
 	public override string Name => "MoreReferenceProxies";
 	public override string Author => "Grand";
 	public override string Version => VERSION_CONSTANT;
